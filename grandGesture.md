@@ -78,7 +78,13 @@ Om in de tekening, die na bovenstaande is vastgelegd in variabele **schets**, de
 
 ![Blok om schets te tekenen](images/tekenSchetsMetPuntenBlok.png)
 
+###De schets *re samplen* naar een vast aantal punten.
 
+Het blijkt nog best lastig te zijn om helder uit te leggen hoe je een schets met, zeg, 150 punten *resampled* naar 64 punten. Het idee is in grote lijnen om eerste de lengte van de schets te bepalen, door de lengtes van alle segmenten bij elkaar op te tellen. Vervolgens deel je die lengte door het gewenste aantal punten min één, om de afstand te bepalen tussen de punten in de nieuwe lijst. Daarna loop je de oude schets af, waarbij je na iedere *segment lengte* een nieuw punt aan de lijst toevoegt.
+
+Heronder zie je de complete code. Je kan die ook [downloaden](https://github.com/xota/grandGesture/images/beperkSchetsTotAantalPunten.xml) en vervolgens in je eigen project importeren met import of door slepen vanuit downloadmap naar Snap!-project. Wie tijd over heeft bouwt het zelf met deze afbeelding als leidraad.
+
+![Beperk schets tot aantal punten](images/beperkSchetsTotAantalPunten.png)
 
 
 
