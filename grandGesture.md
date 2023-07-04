@@ -53,7 +53,7 @@ We werken met [Snap!](https://snap.berkeley.edu/run) omdat we geleerd hebben hoe
 
 ###Muis indrukken om te starten
 
-Zodra er ergens op het canvas de muis wordt ingedrukt, willen we dat ons programma start. We kunnen dit eenvoudig bereiken door het **speelveld** te prograameren om een signaal te sturen als de muis wordt ingedrukt. De **sprite**, die we sensor zouden kunnen noemen, moet dan in actie komen als dat signaal binnenkomt.
+Zodra er ergens op het canvas de muis wordt ingedrukt, willen we dat ons programma start. We kunnen dit eenvoudig bereiken door het **speelveld** te programmeren om een signaal te sturen als de muis wordt ingedrukt. De **sprite**, die we sensor zouden kunnen noemen, moet dan in actie komen als dat signaal binnenkomt.
 
 ![Indrukken voor start](images/indrukkenVoorStart.png)
 
