@@ -93,8 +93,13 @@ Eenmalig heb ik een variabele **voorbeelden** aangemaakt en *geïnitialiseerd* a
 
 ![Voeg schets toe aan lijst van voorbeelden](images/schetsToevoegenAanVoorbeelden.png)
 
+###Een schets herkennen binnen een voorbeelden lijst
 
+Om verder te kunnen werken met het resultaat is er een functie met als invoer een gestandaardiseerde schets en lijst van voorbeelden. De uitvoer is de *naam* van het voorbeeld dat het *beste past*.
 
+![Aanroep functie herken schets met voorbeelden](images/functieAanroepHerkenSchets.png)
+
+![Definitie functie herken schets met voorbeelden](images/schetsOpzoekenInVoorbeelden.png)
 
 
 ##Opties voor verbetering
