@@ -119,6 +119,8 @@ De breedte van de vorm is het verschil tussen de maximale x-waarde en minimale x
 Een vorm ziet er hetzelfde uit wanneer je schets van punt 1 tot laatst tekent, of in omgekeerde richting. Sommige figuren worden door verschillende mensen in verschillende richting getekend. Die vromen zien er dan hetzelfde uit maart hebben relatief grote onderlinge afstand omdat eigenlijk de verkeerde punten met elkaar vergeleken worden. Een begin van een oplossing checkt een neiuwe vorm niet alleen tegen alle reeds bekende voorbeelden, maar ook hun omkering:
 ![Omkering van een schets](images/omkeringSchets.png)
 
+###Met lijsten kan je optellen en vermenigvuldigen
+
 *Snap!* is uitermate handig voor het manipuleren van lijsten, als je bijvoorbeeld een *getal* optelt bij een lijst getallen, krijg je een lijst waarbij bij alle elementen dat getal is opgeteld. Dat werkt ook met paren getallen. En het werkt ook met vermenigvuldigen!
 Probeer eens de volgende tekeninstructies uit:
 
