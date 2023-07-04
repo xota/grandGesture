@@ -86,6 +86,12 @@ Heronder zie je de complete code. Je kan die ook [downloaden](https://github.com
 
 ![Beperk schets tot aantal punten](images/beperkSchetsTotAantalPunten.png)
 
+###Schets toevoegen aan voorbeelden
+
+Zeker in het begin, maar wie weet ook later als je nieuwe vormen wil toevoegen, wil je de computer leren wat de schets voorstelt. Voor bedieningsgemak maak ik dat vast aan de toets **1**.
+Eenmalig heb ik een variabele **voorbeelden** aangemaakt en *geïnitialiseerd* als lege lijst: ![Voorbeelden geïnitialiseerd als lege lijst](images/intialiseerVoorbeeldenAlsLegeLijst.png)
+
+![Voeg schets toe aan lijst van voorbeelden](images/schetsToevoegenAanVoorbeelden.png)
 
 
 
